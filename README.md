@@ -1,4 +1,4 @@
-# BPLLM-
+# BPLLM
 Birthday message writing LLM
 #Software and tools requirements
 1. [Streamlit](https://streamlit.io/)
